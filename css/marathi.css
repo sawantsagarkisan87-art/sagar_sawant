@@ -1,0 +1,33 @@
+.kavyangan{
+    color: red;
+    border: 2px solid green;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 60px;
+    font-style: calc();
+    background-color: cadetblue;
+}
+.T{ color:green;
+    border: 1px solid green;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+    font-style: calc();
+    background-color: rgb(191, 207, 203)}
+.sawant{
+    color: blue;
+    text-decoration: double;
+    text-align: right;
+    font-size: 20px;
+    font-style: var();
+background-color: aqua;}
+.navbharat{display:flex;width: 100%;border: 4px solid green;justify-content: start;}
+.home{height: 50px;width: 150px;background-color: rgb(217, 255, 127);text-align: center;border: 2px solid red;
+border-radius: 30px;padding-top: 8px;color: rgb(51, 131, 200);margin-left: 5px;}
+.divi{
+    text-align: center;
+    background-color: rgb(168, 185, 180);
+    border: 2px solid red;
+}
+.A{font-size: 14px;border: 2px red;border-radius: 25px;text-align: center;background-color: aqua;}
+.B{border-radius: 20%;height: 400px;width: 400px;text-align: center;background-color: beige;align-items: center;border: 10px orangered;}
